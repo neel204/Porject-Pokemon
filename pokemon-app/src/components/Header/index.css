@@ -3,7 +3,7 @@
 
 .header-container {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
   background-color: #11998E;
   height: 70px;
@@ -24,8 +24,9 @@
 
 .logo {
   width: 130px;
-  height: 65px;
+  height: 60px;
   margin-right: 8px;
+  border-radius: 10px;
 }
 
 .nav-items-list {
