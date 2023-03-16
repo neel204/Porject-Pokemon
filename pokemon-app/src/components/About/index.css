@@ -1,0 +1,26 @@
+.about-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 53px;
+}
+
+.about-container div {
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 20px;
+  padding-bottom: 0px;
+  max-width: 85%;
+  margin: 0 auto;
+}
+
+.about-container ol {
+  list-style: decimal;
+  padding-left: 20px;
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
+
+.about-container li {
+  margin-bottom: 10px;
+}
